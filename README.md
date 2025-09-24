@@ -89,4 +89,4 @@ The analysis shows that average grades vary more by Track, with smaller differen
 
 ---
 
-✨ This experiment demonstrates how **data wrangling** and **visualization** can be combined with **storytelling** to interpret dataset insights effectively.  
+This experiment demonstrates how **data wrangling** and **visualization** can be combined with **storytelling** to interpret dataset insights effectively.  
